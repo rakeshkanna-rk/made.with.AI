@@ -4,6 +4,6 @@
 
 ![game](game-Screenshot1.png)  
 
-### Game  
+### Game Over  
 
 ![game](gameover-Screenshot2.png)  
