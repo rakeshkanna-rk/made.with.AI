@@ -23,7 +23,7 @@ Stay tuned for more exciting AI-powered games in this repository. We're constant
 1. Clone this repository to your local machine:
 
 ```shell
-   git clone https://github.com/rakeshkanna01/made.with.AI-Games.git
+   git clone https://github.com/rakeshkanna01/made.with.AI.git
 ```
 
 1. Navigate to the game directory you want to play.
