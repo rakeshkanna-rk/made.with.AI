@@ -1,0 +1,22 @@
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "made.with.AI"
+version = "0.1.0"
+description = "This repository is a hub for a collection of games enhanced with the magic of Artificial Intelligence."
+authors =  [{name= "Rakesh Kanna", email= "rakeshkanna0108@gmail.com"}]
+license = {text= "Apache License V2"}
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ['made_with_ai', 'ai', 'ai_games', 'games', 'python']
+
+dependencies = ['pygame>=2.6.0']
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License V2 License",
+    "Operating System :: OS Independent",
+]
